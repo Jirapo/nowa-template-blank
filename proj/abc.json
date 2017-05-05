@@ -4,6 +4,7 @@
     "type": "blank",
     "template": "<%- template %>",
     "npm": "<%- npm %>",
-    "entry": "index.js"
+    "entry": "index.js",
+    "open": true
   }
 }
